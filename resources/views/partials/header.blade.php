@@ -1,5 +1,8 @@
 <header>
-    <img src="https://d33wubrfki0l68.cloudfront.net/3fbf6ef77e5e00aea7a22423087373169b52ae7e/413ff/images/logo/logo.svg" alt="">
+    <div class="logo">
+        <img src="https://d33wubrfki0l68.cloudfront.net/3fbf6ef77e5e00aea7a22423087373169b52ae7e/413ff/images/logo/logo.svg" alt="">
+    </div>
+
     <nav>
         <ul>
             <li><a href="#">Articles</a></li>

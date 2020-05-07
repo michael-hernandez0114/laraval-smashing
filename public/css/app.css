@@ -1,4 +1,42 @@
-header img {
-  width: 100px;
+* {
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  display: inline-block;
+  width: 60%;
+  text-align: right;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+header {
+  height: 70px;
+  background-color: red;
+}
+
+header .logo {
+  display: inline-block;
+  line-height: 70px;
+  width: 20%;
+}
+
+header .logo img {
+  height: 35px;
+  vertical-align: text-top;
 }
 

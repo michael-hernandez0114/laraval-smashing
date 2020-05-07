@@ -1,5 +1,17 @@
 header {
-    img {
-        width: 100px;
+    height: 70px;
+    background-color: red;
+
+    .logo {
+        display: inline-block;
+        line-height: 70px;
+        width: 20%;
+        img {
+
+            height: 35px;
+            vertical-align: text-top;
+        }
     }
+
+
 }
